@@ -1,5 +1,11 @@
 # YouTube Video Summarizer with Speech Synthesis
 
+
+
+https://github.com/user-attachments/assets/93ebf5e9-734c-44ca-9cd5-19023a196d34
+
+
+
 Welcome to the **YouTube Video Summarizer with Speech Synthesis** repository! This project provides a fully automated solution to fetch YouTube videos, transcribe their audio content, summarize the transcriptions, and convert the summary into audio. You can receive daily summaries of your favorite YouTube channels delivered directly to your inbox!
 
 ### Features:

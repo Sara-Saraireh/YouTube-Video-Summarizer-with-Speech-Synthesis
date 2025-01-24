@@ -1,0 +1,10 @@
+
+
+# Environment variable files
+.env
+
+# API keys and credentials
+API_KEY
+ELEVEN_API_KEY
+EMAIL_PASSWORD
+
